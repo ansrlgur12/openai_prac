@@ -12,6 +12,12 @@ fastapi = "^0.112.2"
 python-dotenv = "^1.0.1"
 streamlit = "^1.38.0"
 uvicorn = "^0.30.6"
+langchain = "^0.3.2"
+langchain-openai = "^0.2.2"
+tiktoken = "^0.8.0"
+langchain-community = "^0.3.1"
+opencv-python = "^4.10.0.84"
+pytesseract = "^0.3.13"
 
 
 [build-system]
